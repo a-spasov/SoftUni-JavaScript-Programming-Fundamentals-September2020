@@ -33,6 +33,21 @@ function prints on the console "Incorrect password. Try again.". When it receive
 If the password is still not correct on the fourth try, the function prints "User {username} blocked!" and stops the program. The input comes 
 as an array of strings.
 
+10. The Pyramid of King Djoser
+Write a JS program that calculates how much resources will be required for the construction of a pyramid. It is made out of stone, marble, 
+lapis lazuli and gold. Your program will receive an integer that will be the base width and length of the pyramid and an increment, that is the 
+height of each step. The bulk is made out of stone, while the outer layer is made out of marble. Every fifth step’s outer layer is made out of 
+lapis lazuli instead of marble. The final step is made out of gold.
+The pyramid is built with 1x1 blocks with height equal to the given increment. The first step of the pyramid has width and length equal to the 
+given base and every next step is reduced by 2 blocks (1 from each side). The height of every step equals the given increment. 
+Note the top-most layer is made entirely out of gold, with height equal to the given increment. 
+
+11. Bitcoin "Mining"
+Write a JavaScript program that calculates the total amount of bitcoins you purchased with the gold you mined during your shift at the mine. 
+Your shift consists of a certain number of days where you mine an amount of gold in grams. Your program will receive an array with the amount 
+of gold you mined each day, where the first day of your shift is the first index of the array. Also, someone was stealing every third day from 
+the start of your shift 30% from the mined gold for this day. For the different exchanges use these prices: 1 Bitcoin = 11949.16 lv., 
+1g of gold = 67.51 lv.
 
 
 

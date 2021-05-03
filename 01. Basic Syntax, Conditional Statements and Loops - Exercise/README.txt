@@ -17,3 +17,24 @@ calculate how much they have to pay and print that price on the console.
 
 05. Leap Year
 This function checks whether a given year is leap.
+
+06. Print and Sum
+This function displays numbers from given start to given end and their sum. 
+
+07. Triangle of Numbers
+This function receives a single number – n, and prints a triangle from 1 to n.
+
+08. Multiplication Table
+This function receives a number as an input from the console. It prints the 10 times table for this number. 
+
+09. Login
+This function receives a string representing a username. The password will be that username reversed. Until it receives the correct password 
+function prints on the console "Incorrect password. Try again.". When it receives the correct password, it prints "User {username} logged in."
+If the password is still not correct on the fourth try, the function prints "User {username} blocked!" and stops the program. The input comes 
+as an array of strings.
+
+
+
+
+
+

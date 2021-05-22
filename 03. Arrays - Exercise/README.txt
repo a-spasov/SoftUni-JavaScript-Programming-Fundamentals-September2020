@@ -11,3 +11,17 @@ array the sum of both elements at that index. If the index of the element is odd
  
 04. Array Rotation
 This function receives an array and number of rotations you have to perform (first element goes at the end). 
+
+05. Max Number
+This function finds all the top integers in an array. A top integer is an integer which is bigger than all the elements to its right. 
+
+06. Equal Sums
+This function determines if there exists an element in the array of numbers such that the sum of the elements on its left is equal to 
+the sum of the elements on its right. The function prints the index that satisfies the required condition or "no" if there is no such 
+index.
+
+07. Max Sequence of Equal Elements
+This function finds the longest sequence of equal elements in an array of numbers. If several longest sequences exist, print 
+the leftmost one.
+
+

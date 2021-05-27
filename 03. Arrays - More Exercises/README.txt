@@ -17,3 +17,13 @@ element and continue to the end of the given array of numbers. Any number which 
 alternatively if it’s equal or higher than the current biggest one you set it as the current biggest one and you continue to the next 
 number. 
 
+05. Tseam Account
+As a gamer, Peter has Tseam Account. He loves to buy new games. You are given Peter's account with all of his games-> strings, separated
+by space. Until you receive "Play!" you will be receiving commands which Peter does with his account. If you receive Install command, 
+you should add the game at last position in the account, but only if it isn't installed already. If you receive Uninstall command, 
+delete the game if it exists. If you receive Update command, you should update the game if it exists and place it on last position.
+If you receive Expansion command, you should check if the game exists and insert after it the expansion in the following format: 
+"{game}:{expansion}".
+
+
+

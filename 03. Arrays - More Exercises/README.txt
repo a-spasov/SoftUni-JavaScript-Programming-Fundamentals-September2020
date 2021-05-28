@@ -25,5 +25,18 @@ delete the game if it exists. If you receive Update command, you should update t
 If you receive Expansion command, you should check if the game exists and insert after it the expansion in the following format: 
 "{game}:{expansion}".
 
+06. Magic Matrices
+This function checks if a given matrix of numbers is magical. A matrix is magical if the sums of the cells of every row and every 
+column are equal. 
+
+07. Spiral Matrix
+Write a function that generates a Spirally filled matrix with numbers, with given dimensions.
+
+08. Diagonal Attack
+Write a function that reads a given matrix of numbers, and checks if both main diagonals have equal sum. If they do, set every element 
+that is NOT part of the main diagonals to that sum, alternatively just print the matrix unchanged.
+
+
+
 
 

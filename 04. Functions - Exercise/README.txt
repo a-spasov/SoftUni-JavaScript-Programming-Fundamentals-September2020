@@ -29,6 +29,16 @@ Write a function that receive a number and return if this number is perfect or N
 to the sum of its proper positive divisors. That is the sum of its positive divisors excluding the number itself (also known as its 
 aliquot sum).
 
+09. Loading Bar
+You will receive a single number between 0 and 100 which is divided with 10 without residue (0, 10, 20, 30...). Your task is to create a
+function that visualize a loading bar depending on that number you have received in the input.
+
+10. Factorial Division
+Write a function that receives two integer numbers. Calculate factorial of each number. Divide the first result by the second and print
+the division formatted to the second decimal point.
+
+
+
 
 
 

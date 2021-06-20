@@ -14,3 +14,10 @@ to be processed.
 You are given two integers n and k. Write a function that generates and prints the following sequence: The first element is 1, every
 following element equals the sum of the previous k elements and the length of the sequence is n elements.
 
+05. Process Odd Numbers
+You are given an array of numbers. Write a function that prints the elements at odd positions from the array, doubled and in reverse 
+order.
+
+06. Smallest Two Numbers
+Write a function that prints the two smallest elements from an array of numbers.
+

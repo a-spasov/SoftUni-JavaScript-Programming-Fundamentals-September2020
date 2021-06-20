@@ -21,3 +21,7 @@ order.
 06. Smallest Two Numbers
 Write a function that prints the two smallest elements from an array of numbers.
 
+07. List of Products
+You will receive an array of products. Print a numbered array of all the products ordered by name.
+
+

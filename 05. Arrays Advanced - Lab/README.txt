@@ -24,4 +24,13 @@ Write a function that prints the two smallest elements from an array of numbers.
 07. List of Products
 You will receive an array of products. Print a numbered array of all the products ordered by name.
 
+08. Array Manipulations
+Write a function that manipulates an array of numbers: 
+•	Add {number}: add a number to the end of the array
+•	Remove {number}: remove number from the array
+•	RemoveAt {index}: removes number at a given index
+•	Insert {number} {index}: inserts a number at a given index
+
+
+
 

@@ -26,4 +26,10 @@ Write a function that sorts an array of numbers so that the first element is the
 is the second biggest one, the fourth is the second smallest one and so on. 
 Print the elements on one row, separated by single space.
 
+05.	 Sort an Array by 2 Criteria
+Write a function that orders an array of strings, by their length in ascending order as primary criteria, and by alphabetical value in a
+scending order as second criteria. The comparison should be case-insensitive. The input comes as array of strings. The output is the 
+ordered array of strings.
+
+
 

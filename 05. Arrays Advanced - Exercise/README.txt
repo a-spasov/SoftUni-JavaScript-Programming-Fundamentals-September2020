@@ -45,6 +45,16 @@ to delete from the numbers you took (starting from the first one). Third number 
 manipulations. As output print how many times that number occurs in our array in the following format: 
 "Number {number} occurs {count} times."
 
+08. Array Manipulator
+Write a function that receives an array of integers and array of string commands and executes them over the array. The commands are as 
+follows: add <index> <element> – adds element at the specified index (elements right from this position inclusively are shifted to the 
+right); addMany <index><element 1> <element 2> … <element n> – adds a set of elements at the specified index; contains <element> – 
+prints the index of the first occurrence of the specified element (if exists) in the array or -1 if the element is not found; 
+remove <index> – removes the element at the specified index; shift <positions> – shifts every element of the array the number of 
+positions to the left (with rotation); sumPairs – sums the elements in the array by pairs (first + second, third + fourth, …);
+print – stop receiving more commands and print the last state of the array.
+
+
 
 
 

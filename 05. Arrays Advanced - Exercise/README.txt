@@ -62,6 +62,15 @@ it isn't bought already. If you receive Trash command, delete the equipment if i
 repair the equipment if it exists and place it on last position. If you receive Upgrade command, you should check if the equipment 
 exists and insert after it the upgrade in the following format: "{equipment}:{upgrade}";
 
+10. Build a Wall 
+Write a program that keeps track of the construction of a 30-foot wall. You will be given an array of strings that must be parsed as 
+numbers, representing the initial height of mile-long sections of the wall, in feet. Each section has its own construction crew that 
+can add 1 foot of height per day by using 195 cubic yards of concrete. All crews work simultaneously (see examples), meaning all 
+sections that aren't completed (are less than 30 feet high) grow by 1 foot every day. When a section of the wall is complete, its crew 
+is relieved. 
+Your program needs to keep track of how much concrete is used daily until the completion of the entire wall. At the end, print on a single line, separated by comma and space, the amount of concrete used each day, and on a second line, the final cost of the wall. One cubic yard of concrete costs 1900 pesos. 
+
+
 
 
 

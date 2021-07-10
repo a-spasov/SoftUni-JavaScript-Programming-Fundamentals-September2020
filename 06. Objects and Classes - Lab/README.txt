@@ -19,4 +19,11 @@ Create a Cat class that receives in the constructor the name and the age parsed 
 It should also have a function named "meow" that will print "{cat name}, age {age} says Meow" on the console.
 For each of the strings provided you must create a cat object.
 
+06. Songs
+Define a class Song, which holds the following information about songs: typeList, name and time.
+You will receive the input as an array.
+The first element n will be the number of songs. Next n elements will be the songs data in the following format: 
+"{typeList}_{name}_{time}", and the the last element will be Type List / "all".
+Print only the names of the songs which are from that Type List / All songs. 
+
 

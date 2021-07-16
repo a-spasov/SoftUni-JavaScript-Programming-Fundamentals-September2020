@@ -53,7 +53,29 @@ Create a class with name Vehicle that has the following properties:
 	quality – engine * power
 • fuel – a number
 • drive – a function that receives fuel loss and decreases the fuel of the vehicle by that number
-The constructor should receive the type, the model, the parts as an object and the fuel
+The constructor should receive the type, the model, the parts as an object and the fuel.
+
+08. Class Storage
+Create a class Storage. It should have the following properties:
+•	capacity – a number that decreases when adding a given quantity of products in storage
+•	storage – list of products (object). Each product should have:
+o	name - a string
+o	price – a number (price is for a single piece of product)
+o	quantity – a number
+•	totalCost – sum of the cost of the products
+•	addProduct – a function that receives a product and adds it to the storage
+•	getProcuts – a function that returns all the products in storage in JSON format, each on a new line
+The constructor should receive a capacity.
+
+09. Catalogue
+You have to create a sorted catalogue of store products. You will be given the products’ names and prices. You need to order them by 
+alphabetical order. The input comes as array of strings. Each element holds info about a product in the following format:
+“{productName} : {productPrice}” .
+The product’s name will be a string, which will always start with a capital letter, and the price will be a number. You can safely 
+assume there will be NO duplicate product input. The comparison for alphabetical order is case-insensitive.
+As output you must print all the products in a specified format. They must be ordered exactly as specified above. The products must be 
+divided into groups, by the initial of their name. The group’s initial should be printed, and after that the products should be printed
+with 2 spaces before their names. 
 
 
 

@@ -16,3 +16,14 @@ the students sorted by average grade. The input comes as array of strings.
 Write a function that counts the times each word occurs in a text. Print the words sorted by count in descending order. The input comes 
 as an array of strings.
 
+05. Neighborhoods
+Write a function that receives list of neighborhoods and then some people, who are going to live in it. The input will come as array of
+strings. The first element will be the list of neighborhoods separated by ", ". The rest of the elements will be a neighborhood followed
+by a name of a person in the format "{neighborhood} - {person}". Add the person to the neighborhood only if the neighborhood is in the 
+list of neighborhoods. At the end print the neighborhoods sorted by the count of inhabitants in descending order. Print them in the 
+following format: 
+"{neighborhood}: {inhabitants count}
+--{1st inhabitant}
+--{2nd inhabitant}
+…"
+

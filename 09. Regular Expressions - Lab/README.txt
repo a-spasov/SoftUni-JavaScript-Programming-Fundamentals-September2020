@@ -18,3 +18,6 @@ A valid number has the following characteristics:
 	of 3 and 4 digits respectively). 
 	- The different parts are separated by either a space or a hyphen ('-').
 
+03. Match Dates
+Write a program, which matches a date in the format "dd{separator}MMM{separator}yyyy".
+

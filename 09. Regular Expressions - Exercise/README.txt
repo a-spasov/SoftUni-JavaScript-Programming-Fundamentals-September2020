@@ -7,3 +7,8 @@ length as the template and replace it.
 The input will be a single string. Find all special words starting with #. Word is invalid if it has anything 
 other than letters. Print the words you found without the tag each on a new line.
 
+03. Extract File
+Write a function that receives a single string - the path to a file (the '\' character is escaped).
+Your task is to subtract the file name and its extension.
+
+

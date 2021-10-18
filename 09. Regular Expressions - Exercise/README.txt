@@ -25,4 +25,9 @@ You will receive a single string.
 This string is written in PascalCase format. Your task here is to split this string by every word in it. 
 Print them joined by comma and space.
 
+07. Cut and Reverse
+The input will be a single string. Write a function that cuts the given string into half and reverse the two 
+halves. Print each half on a separate line.
+
+
 
